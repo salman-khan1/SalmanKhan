@@ -15,22 +15,21 @@ I'm a backend developer from Pakistan.
 ---
 
 ### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isalman-khan1)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:myselfsalman2000@gmail.com)
 
 ---
 
 ### 📊 GitHub Stats
-![Salman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
+![Salman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salman-khan1&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salman-khan1&layout=compact&theme=radical)
 
 ---
 
 ### 🏆 Badges
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social)](https://github.com/YOUR_GITHUB_USERNAME)
+![Profile views](https://komarev.com/ghpvc/?username=salman-khan1E&label=Profile%20views&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/salman-khan1?label=Follow&style=social)](https://github.com/salman-khan1)
 
 ---
 
-⭐️ From [Salman](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [Salman Khan](https://github.com/salman-khan1)
